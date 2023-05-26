@@ -1,0 +1,78 @@
+body{
+    height: 100vh;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.maindiv{
+    height: 45vh;
+    width: 550px;
+}
+.div1{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#6642ff+0,342cea+99 */
+    background: rgb(102,66,255); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(102,66,255,1) 0%, rgba(52,44,234,1) 99%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(102,66,255,1) 0%,rgba(52,44,234,1) 99%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(102,66,255,1) 0%,rgba(52,44,234,1) 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6642ff', endColorstr='#342cea',GradientType=0 ); /* IE6-9 */
+}
+.tit1{
+    color: rgba(255, 255, 255, 0.8);
+
+}
+.row{
+    width: 500px;
+}
+.divcir{
+    height: 150px;
+    width: 150px;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#4c22cc+0,4734f0+100,4734f0+100 */
+    background: rgb(76,34,204); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(76,34,204,1) 0%, rgba(71,52,240,1) 100%, rgba(71,52,240,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(76,34,204,1) 0%,rgba(71,52,240,1) 100%,rgba(71,52,240,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(76,34,204,1) 0%,rgba(71,52,240,1) 100%,rgba(71,52,240,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c22cc', endColorstr='#4734f0',GradientType=0 ); /* IE6-9 */
+}
+.margen{
+    margin-top: -10px;
+}
+.number{
+    font-size: 60px;
+    font-weight: bolder;
+}
+.parraf{
+    font-size: small;
+}
+.categorias{
+    margin-top: 38px;
+}
+.results{
+    height: 40px;
+}
+.cat1{
+    background-color: hsla(0, 100%, 67%, 0.1);
+    color: hsla(0, 100%, 67%);
+    font-weight: 600;
+}
+.cat2{
+    background-color: hsl(39, 100%, 56%, 0.1);
+    color: hsl(39, 100%, 56%);
+    font-weight: 600;
+}
+.cat3{
+    background-color: hsl(166, 100%, 37%, 0.1);
+    color: hsl(166, 100%, 37%);
+    font-weight: 600;
+}
+.cat4{
+    background-color: hsl(234, 85%, 45%, 0.1);
+    color: hsl(234, 85%, 45%);
+    font-weight: 600;
+}
+.score{
+    color: rgba(0, 0, 0, 0.5);
+}
+.boton{
+    margin-top: 38px;
+    height: 40px;
+    background-color: rgba(48,44,233,255);
+}
